@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_instagram_new_post_outline_24.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\drawable-xxhdpi\\instagram_new_post_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_media_option_button.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\drawable-xxhdpi\\media_option_button.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_camera_shadow_fill.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\drawable-xxhdpi\\camera_shadow_fill.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_background.xml.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\color_button_state.xml.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\color\\button_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_posts.xml.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\layout\\fragment_posts.xml"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_border.xml.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\drawable\\button_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_instagram_new_post_filled_24.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\drawable-xxhdpi\\instagram_new_post_filled_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_instagram_user_filled_24.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\drawable-xxhdpi\\instagram_user_filled_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\xml_fileprovider.xml.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\xml\\fileprovider.xml"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ufi_save_active.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\drawable-xxhdpi\\ufi_save_active.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_nav_inbox_paper_plane.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\drawable-xxhdpi\\nav_inbox_paper_plane.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ufi_save.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\drawable-xxhdpi\\ufi_save.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_compose.xml.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\layout\\fragment_compose.xml"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start.xml.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_post.xml.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\layout\\item_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ufi_heart.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\drawable-xxhdpi\\ufi_heart.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_instagram_user_outline_24.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\drawable-xxhdpi\\instagram_user_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_instagram_home_filled_24.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\drawable-xxhdpi\\instagram_home_filled_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\menu\\menu_bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ufi_more.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\drawable-xxhdpi\\ufi_more.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_button_border_color.xml.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\drawable-v24\\button_border_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_instagram_home_outline_24.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\drawable-xxhdpi\\instagram_home_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_nav_logo_whiteout.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\drawable-xxhdpi\\nav_logo_whiteout.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ufi_new_direct.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\drawable-xxhdpi\\ufi_new_direct.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ufi_heart_active.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\drawable-xxhdpi\\ufi_heart_active.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_direct.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\drawable-xxhdpi\\direct.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ufi_comment.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\drawable-xxhdpi\\ufi_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_nux_dayone_landing_logo.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\drawable-xxhdpi\\nux_dayone_landing_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\hichem\\AndroidStudioProjects\\appchat\\chatappfirebase\\InstaApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    }
+]
